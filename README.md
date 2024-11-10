@@ -17,7 +17,7 @@ python api.py
 ```bash
 python ui.py
 ```
-5. Enable updating knowledge. [Optional]
+5. Enable continual knowledge updating. [Optional]
 ```bash
 python ./mutation_thread.py
 ```
